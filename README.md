@@ -5,7 +5,7 @@
 
 
 ## Laucher
-- Jupyter lab [![Binder](https://mybinder.org/badge.svg)](://mybinder.org/v2/gh/f66blog/fortran7/master?urlpath=lab)  
+- Jupyter lab [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/f66blog/fortran7/master?urlpath=lab)  
   
   After Jupyterlab is launched, open file ./examples/example.ipynb. 
 
