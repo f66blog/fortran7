@@ -5,13 +5,13 @@
 
 
 ## Laucher
-- Jupyter lab [![Binder](https://mybinder.org/badge.svg)](https://hub.mybinder.org/v2/gh/f66blog/fortran7/master?urlpath=lab)
+- Jupyter lab [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/f66blog/fortran7/master?urlpath=lab)  
+  
+  After Jupyterlab is launched, open file ./examples/example.ipynb. 
 
-After Jupyterlab is launched, open file ./examples/example.ipynb. 
-
-- Jupyter notebook examples/example.ipynb [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/f66blog/fortran7/master?filepath=examples%2Fexample.ipynb) 
-
-After Jupyter notebook is launched, change "tree" to "lab" in address bar.
+- Jupyter notebook examples/example.ipynb [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/f66blog/fortran7/master?filepath=examples%2Fexample.ipynb)  
+  
+  After Jupyter notebook is launched, change "tree" to "lab" in address bar.
 
 ## Kernel
 
