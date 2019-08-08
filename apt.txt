@@ -1,3 +1,4 @@
+sudo
 add-apt-repository ppa:ubuntu-toolchain-r/test
 ppa:ubuntu-toolchain-r/test
 gfortran-9
